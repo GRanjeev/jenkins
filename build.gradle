@@ -1,0 +1,7 @@
+plugins {
+    id 'war'
+}
+war {
+    from '/usr/share/tomcat9/webapps/ROOT'
+    }
+
